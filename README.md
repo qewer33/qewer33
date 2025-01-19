@@ -1,6 +1,6 @@
 <div align="center"> 
 
-Computer engineering student, programmer, designer, game developer, Linux and free (as in freedom) software enthusiast. I also makes apps, themes and extensions for KDE Plasma.
+Computer engineering student, programmer, designer, embedded systems & electronics tinkerer, Linux and free (as in freedom) software enthusiast. I also make apps, themes and extensions for KDE Plasma.
 
 **My Website:** https://qewer.dev
 
